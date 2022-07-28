@@ -1,7 +1,5 @@
 # Assembly Language
 
-These simple programs have been developed in MARS in MIPS
-
 Assignment 2 Part 1A:
 Prompt the user to enter an integer, 
 read the user's input, and display a labeled output 
